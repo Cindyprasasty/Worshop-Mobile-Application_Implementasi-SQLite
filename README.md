@@ -55,7 +55,7 @@ HASIL PEMBAHASAN :
 ![K](https://user-images.githubusercontent.com/80673338/138586843-cdb08342-90dd-4814-9294-4bec1a9a8ffc.PNG)
 
 - Maka data akan terhapus
-- 
+
 ![L](https://user-images.githubusercontent.com/80673338/138586852-b62ec547-c9d3-4940-b421-68ddb2ac6af7.PNG)
 
 

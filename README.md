@@ -1,6 +1,6 @@
 NAMA  : Cindy Oktaviani Eka Prasasti
 
-NIM   :E41200289
+NIM   : E41200289
 
 Prodi : Teknik Informatika
 
